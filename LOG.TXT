@@ -1,0 +1,7165 @@
+
+Program Started -1 -1
+
+In fn_create_list_of_Sectors
+Returning from fn_create_list_of_Sectors
+In fn_open_dirAdded Dir: 0
+Returning from fn_open_dir
+
+		0
+		0
+		0
+		
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|In Restoring
+
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR1
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 1
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR2
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 2
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR3
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 3
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR4
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 4
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR5
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 5
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR6
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 6
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR7
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 7
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR8
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 8
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR9
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 9
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR10
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 10
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR11
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 11
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR12
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 12
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR13
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 13
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR14
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 14
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR15
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 15
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR16
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 16
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR17
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 17
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR18
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 18
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR19
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 19
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR20
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 20
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR21
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 21
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR22
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 22
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR23
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 23
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR24
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 24
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR25
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 25
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR26
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 26
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR27
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 27
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR28
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 28
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR29
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 29
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR30
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 30
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR31
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 1
+sectornum 31
+
+		0
+		0
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR32
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 0
+created: 0
+Present working sector if full. Creating a new sector
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+sectornum 32
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR33
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 34
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR34
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 35
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR35
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 36
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR36
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 37
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR37
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 38
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR38
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 39
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR39
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 40
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR40
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 41
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR41
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 42
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR42
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 43
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR43
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 44
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR44
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 45
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR45
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 46
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR46
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 47
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR47
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 48
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR48
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 49
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR49
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 50
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR50
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 51
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR51
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 52
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR52
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 53
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR53
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 54
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR54
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 55
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR55
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 56
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR56
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 57
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR57
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 58
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR58
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 59
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR59
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 60
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR60
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 61
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR61
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 62
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR62
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 1
+sectornum 63
+
+		0
+		33
+		0
+		
+	|D|	DIR1|	1|	0|
+	|D|	DIR2|	2|	0|
+	|D|	DIR3|	3|	0|
+	|D|	DIR4|	4|	0|
+	|D|	DIR5|	5|	0|
+	|D|	DIR6|	6|	0|
+	|D|	DIR7|	7|	0|
+	|D|	DIR8|	8|	0|
+	|D|	DIR9|	9|	0|
+	|D|	DIR10|	10|	0|
+	|D|	DIR11|	11|	0|
+	|D|	DIR12|	12|	0|
+	|D|	DIR13|	13|	0|
+	|D|	DIR14|	14|	0|
+	|D|	DIR15|	15|	0|
+	|D|	DIR16|	16|	0|
+	|D|	DIR17|	17|	0|
+	|D|	DIR18|	18|	0|
+	|D|	DIR19|	19|	0|
+	|D|	DIR20|	20|	0|
+	|D|	DIR21|	21|	0|
+	|D|	DIR22|	22|	0|
+	|D|	DIR23|	23|	0|
+	|D|	DIR24|	24|	0|
+	|D|	DIR25|	25|	0|
+	|D|	DIR26|	26|	0|
+	|D|	DIR27|	27|	0|
+	|D|	DIR28|	28|	0|
+	|D|	DIR29|	29|	0|
+	|D|	DIR30|	30|	0|
+	|D|	DIR31|	31|	0|
+
+		0
+		0
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR63
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 33
+created: 0
+Present working sector if full. Creating a new sector
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+sectornum 64
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR64
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 66
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR65
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 67
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR66
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 68
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR67
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 69
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR68
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 70
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR69
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 71
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR70
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 72
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR71
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 73
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR72
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 74
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR73
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 75
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR74
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 76
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR75
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 77
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR76
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 78
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR77
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 79
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR78
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 80
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR79
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 81
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR80
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 82
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR81
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 83
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR82
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 84
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR83
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 85
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR84
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 86
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR85
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 87
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR86
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 88
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR87
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 89
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|D|	DIR87|	89|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR88
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 90
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|D|	DIR87|	89|	0|
+	|D|	DIR88|	90|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR89
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 91
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|D|	DIR87|	89|	0|
+	|D|	DIR88|	90|	0|
+	|D|	DIR89|	91|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR90
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 92
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|D|	DIR87|	89|	0|
+	|D|	DIR88|	90|	0|
+	|D|	DIR89|	91|	0|
+	|D|	DIR90|	92|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR91
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 93
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|D|	DIR87|	89|	0|
+	|D|	DIR88|	90|	0|
+	|D|	DIR89|	91|	0|
+	|D|	DIR90|	92|	0|
+	|D|	DIR91|	93|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR92
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 94
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|D|	DIR87|	89|	0|
+	|D|	DIR88|	90|	0|
+	|D|	DIR89|	91|	0|
+	|D|	DIR90|	92|	0|
+	|D|	DIR91|	93|	0|
+	|D|	DIR92|	94|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR93
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 1
+sectornum 95
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		0
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|D|	DIR87|	89|	0|
+	|D|	DIR88|	90|	0|
+	|D|	DIR89|	91|	0|
+	|D|	DIR90|	92|	0|
+	|D|	DIR91|	93|	0|
+	|D|	DIR92|	94|	0|
+	|D|	DIR93|	95|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR94
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 65
+created: 0
+Present working sector if full. Creating a new sector
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+sectornum 96
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		97
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|D|	DIR87|	89|	0|
+	|D|	DIR88|	90|	0|
+	|D|	DIR89|	91|	0|
+	|D|	DIR90|	92|	0|
+	|D|	DIR91|	93|	0|
+	|D|	DIR92|	94|	0|
+	|D|	DIR93|	95|	0|
+
+		65
+		0
+		33
+		
+	|D|	DIR94|	96|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR95
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 97
+created: 1
+sectornum 98
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		97
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|D|	DIR87|	89|	0|
+	|D|	DIR88|	90|	0|
+	|D|	DIR89|	91|	0|
+	|D|	DIR90|	92|	0|
+	|D|	DIR91|	93|	0|
+	|D|	DIR92|	94|	0|
+	|D|	DIR93|	95|	0|
+
+		65
+		0
+		33
+		
+	|D|	DIR94|	96|	0|
+	|D|	DIR95|	98|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_create
+In fn_create
+Action: CREATE
+Type: D
+Name: DIR96
+Valid: 1
+IN fn_delete_empty_sector
+Returning from fn_delete_empty_sector
+Before looping FRWD: 0
+Before looping Present Dir: 97
+created: 1
+sectornum 99
+
+		0
+		65
+		0
+		
+	|D|	DIR32|	32|	0|
+	|D|	DIR33|	34|	0|
+	|D|	DIR34|	35|	0|
+	|D|	DIR35|	36|	0|
+	|D|	DIR36|	37|	0|
+	|D|	DIR37|	38|	0|
+	|D|	DIR38|	39|	0|
+	|D|	DIR39|	40|	0|
+	|D|	DIR40|	41|	0|
+	|D|	DIR41|	42|	0|
+	|D|	DIR42|	43|	0|
+	|D|	DIR43|	44|	0|
+	|D|	DIR44|	45|	0|
+	|D|	DIR45|	46|	0|
+	|D|	DIR46|	47|	0|
+	|D|	DIR47|	48|	0|
+	|D|	DIR48|	49|	0|
+	|D|	DIR49|	50|	0|
+	|D|	DIR50|	51|	0|
+	|D|	DIR51|	52|	0|
+	|D|	DIR52|	53|	0|
+	|D|	DIR53|	54|	0|
+	|D|	DIR54|	55|	0|
+	|D|	DIR55|	56|	0|
+	|D|	DIR56|	57|	0|
+	|D|	DIR57|	58|	0|
+	|D|	DIR58|	59|	0|
+	|D|	DIR59|	60|	0|
+	|D|	DIR60|	61|	0|
+	|D|	DIR61|	62|	0|
+	|D|	DIR62|	63|	0|
+
+		33
+		97
+		33
+		
+	|D|	DIR63|	64|	0|
+	|D|	DIR64|	66|	0|
+	|D|	DIR65|	67|	0|
+	|D|	DIR66|	68|	0|
+	|D|	DIR67|	69|	0|
+	|D|	DIR68|	70|	0|
+	|D|	DIR69|	71|	0|
+	|D|	DIR70|	72|	0|
+	|D|	DIR71|	73|	0|
+	|D|	DIR72|	74|	0|
+	|D|	DIR73|	75|	0|
+	|D|	DIR74|	76|	0|
+	|D|	DIR75|	77|	0|
+	|D|	DIR76|	78|	0|
+	|D|	DIR77|	79|	0|
+	|D|	DIR78|	80|	0|
+	|D|	DIR79|	81|	0|
+	|D|	DIR80|	82|	0|
+	|D|	DIR81|	83|	0|
+	|D|	DIR82|	84|	0|
+	|D|	DIR83|	85|	0|
+	|D|	DIR84|	86|	0|
+	|D|	DIR85|	87|	0|
+	|D|	DIR86|	88|	0|
+	|D|	DIR87|	89|	0|
+	|D|	DIR88|	90|	0|
+	|D|	DIR89|	91|	0|
+	|D|	DIR90|	92|	0|
+	|D|	DIR91|	93|	0|
+	|D|	DIR92|	94|	0|
+	|D|	DIR93|	95|	0|
+
+		65
+		0
+		33
+		
+	|D|	DIR94|	96|	0|
+	|D|	DIR95|	98|	0|
+	|D|	DIR96|	99|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_createReturning Restoring
+
+In fn_display_path
+
+Printing actual path: 
+/root/0/
+In fn_list
+Returning from fn_list
+In fn_display_path
+
+Printing actual path: 
+/root/0/
+In fn_deletepresentSec: 33
+valid: 0
+Error: Can't delete. File Dosen't exists.
+
+		65
+		0
+		33
+		
+	|D|	DIR94|	96|	0|
+	|D|	DIR95|	98|	0|
+	|D|	DIR96|	99|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+	|F|	|	0|	0|
+Returning from fn_delete
+In fn_display_path
+
+Printing actual path: 
+/root/0/
+Case Statement: EXIT
